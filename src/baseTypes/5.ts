@@ -4,7 +4,4 @@
 */
 
 let union: string | number;
-
-
-type StringOrNumber = string | number;
-let literal: StringOrNumber;
+let literal: 'enable' | 'disable';
